@@ -1,4 +1,4 @@
-# Professional Fire & Smoke CCTV Detection
+# Fire & Smoke CCTV Detection
 
 Features: YOLO fire/smoke detection, RTSP/webcam/video input, high-resolution inference,
 persistent PC alarm, visual alert, alert snapshots, optional recording, CPU/GPU selection.
